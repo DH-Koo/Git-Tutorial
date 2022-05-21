@@ -12,3 +12,6 @@ def div(a,b):
 
 def print():
     print('Hello World')
+
+def print2():
+    print('Hello Git')
