@@ -11,4 +11,7 @@ def div(a,b):
     return a/b
 
 def print():
-    print('Hello World') #주석
+    print('Hello World')
+
+def print2():
+    print('Hello Git') #comment
